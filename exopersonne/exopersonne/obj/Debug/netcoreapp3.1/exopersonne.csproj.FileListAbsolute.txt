@@ -1,0 +1,13 @@
+C:\Users\luidj\source\repos\exopersonne\exopersonne\bin\Debug\netcoreapp3.1\exopersonne.exe
+C:\Users\luidj\source\repos\exopersonne\exopersonne\bin\Debug\netcoreapp3.1\exopersonne.deps.json
+C:\Users\luidj\source\repos\exopersonne\exopersonne\bin\Debug\netcoreapp3.1\exopersonne.runtimeconfig.json
+C:\Users\luidj\source\repos\exopersonne\exopersonne\bin\Debug\netcoreapp3.1\exopersonne.runtimeconfig.dev.json
+C:\Users\luidj\source\repos\exopersonne\exopersonne\bin\Debug\netcoreapp3.1\exopersonne.dll
+C:\Users\luidj\source\repos\exopersonne\exopersonne\bin\Debug\netcoreapp3.1\exopersonne.pdb
+C:\Users\luidj\source\repos\exopersonne\exopersonne\obj\Debug\netcoreapp3.1\exopersonne.csprojAssemblyReference.cache
+C:\Users\luidj\source\repos\exopersonne\exopersonne\obj\Debug\netcoreapp3.1\exopersonne.AssemblyInfoInputs.cache
+C:\Users\luidj\source\repos\exopersonne\exopersonne\obj\Debug\netcoreapp3.1\exopersonne.AssemblyInfo.cs
+C:\Users\luidj\source\repos\exopersonne\exopersonne\obj\Debug\netcoreapp3.1\exopersonne.csproj.CoreCompileInputs.cache
+C:\Users\luidj\source\repos\exopersonne\exopersonne\obj\Debug\netcoreapp3.1\exopersonne.dll
+C:\Users\luidj\source\repos\exopersonne\exopersonne\obj\Debug\netcoreapp3.1\exopersonne.pdb
+C:\Users\luidj\source\repos\exopersonne\exopersonne\obj\Debug\netcoreapp3.1\exopersonne.genruntimeconfig.cache
